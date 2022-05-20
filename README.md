@@ -4,6 +4,8 @@
 
 > This is a practice project of making site using 2 different repos React app for the front-end and rails for backend.
 
+here is the link to the [frontend react app](https://github.com/Omar-Muhamad/hello-react-front-end).
+
 ## Built With :gear:
 
 - Ruby.
